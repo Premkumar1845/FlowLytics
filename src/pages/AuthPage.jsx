@@ -66,9 +66,7 @@ export default function AuthPage() {
                 {/* Logo — large, centered, stacked */}
                 <div className="text-center mb-10">
                     <div className="flex justify-center mb-4">
-                        <div className="p-4 rounded-2xl bg-white/[0.06] backdrop-blur-sm border border-white/[0.08] shadow-2xl shadow-indigo-500/10">
-                            <AnimatedLogo size={72} />
-                        </div>
+                        <AnimatedLogo size={72} />
                     </div>
                     <h1 className="text-4xl font-extrabold text-white tracking-tight mb-2">
                         Flowlytics
