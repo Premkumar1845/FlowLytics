@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import ErrorBoundary from './components/ErrorBoundary.jsx'
-import './index.css'
+import './flowlytics.css'
 
 // Clear any corrupted persisted state on first load
 try {
